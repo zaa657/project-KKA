@@ -1,34 +1,31 @@
-# Aplikasi Catatan Keuangan Harian CLI
+# Aplikasi To Do List CLI
 
 Project ini dibuat untuk tugas akhir Python Fundamental Programming mata pelajaran KKA.
 
 ## Tema Project
 
-Aplikasi Catatan Keuangan Harian berbasis CLI.
+Aplikasi To Do List berbasis CLI.
 
 ## Fitur
 
-- Tambah pemasukan
-- Tambah pengeluaran
-- Lihat total saldo
-- Lihat riwayat transaksi
-- Hitung sisa uang
-- Hapus transaksi
-- Reset semua data
+- Tambah tugas
+- Lihat daftar tugas
+- Tandai tugas selesai
+- Hapus tugas
+- Program berjalan terus sampai user memilih keluar
 - Validasi input angka
-- Program berjalan sampai user memilih keluar
+- Validasi tugas kosong
 
 ## Materi Python yang Digunakan
 
 - Tipe data
 - Variabel
 - Input user
-- Operator matematika
+- Operator
 - Comparison operator
 - Logical operator
 - If else
-- Looping while
-- Looping for
+- Looping while dan for
 - Function
 - List
 - Dictionary
@@ -36,7 +33,9 @@ Aplikasi Catatan Keuangan Harian berbasis CLI.
 
 ## Cara Menjalankan Program
 
-Buka terminal di folder project, lalu jalankan:
+1. Buka terminal
+2. Masuk ke folder project
+3. Jalankan perintah:
 
 ```bash
 python main.py
